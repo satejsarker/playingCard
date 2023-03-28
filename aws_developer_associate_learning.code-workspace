@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../aws_developer_associate_learning"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"boto"
+		]
+	}
+}
